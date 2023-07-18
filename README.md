@@ -1,6 +1,6 @@
 ### Hi there 👋
-Après une formation en tant que game developer et une en game programming j'ai décider de me lancer dans le cursus de 19 (du network 42).
-Je partage sur ce github mes projets effectués durant le cursus.
+Après une formation en tant que game developer et une en game programming, j'ai décidé de me lancer dans le cursus de 19 (network 42).
+Je partage sur ce github mes projets effectués.
 
 
 ![<lbuccher>'s 42 stats](https://badge.mediaplus.ma/greenbinary/lbuccher?UM6P=off)
