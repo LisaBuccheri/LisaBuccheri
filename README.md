@@ -16,7 +16,7 @@ Je partage sur ce github mes projets effectués.
 - [Push swap](https://github.com/LisaBuccheri/push_swap)
 - [So long](https://github.com/LisaBuccheri/so_long)
 - [Philosophers](https://github.com/LisaBuccheri/philosophers)
-- [Minishell]()
+- [Minishell](https://github.com/LisaBuccheri/Minishell)
 - [Modules C++]()
 - [Cub3D]()
 - [Ft Containers]()
