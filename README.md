@@ -3,7 +3,7 @@ Après une formation en tant que game developer et une en game programming, j'ai
 Je partage sur ce github mes projets effectués.
 
 
-![<lbuccher>'s 42 stats](https://badge.mediaplus.ma/greenbinary/lbuccher?UM6P=off)
+![<lbuccher>'s 42 stats]([https://badge.mediaplus.ma/greenbinary/lbuccher?UM6P=off](https://badge.mediaplus.ma/darkblue/lbuccher?1337Badge=off&UM6P=off))
 
  ## Mes projets scolaires
    #### Details:
