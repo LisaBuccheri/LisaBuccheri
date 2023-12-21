@@ -3,7 +3,7 @@ Après une formation en tant que game developer et une en game programming, j'ai
 Je partage sur ce github mes projets effectués.
 
 
-![<lbuccher>'s 42 stats](https://badge.mediaplus.ma/darkblue/lbuccher?1337Badge=off&UM6P=off)
+!<lbuccher>'s 42 stats(https://badge.mediaplus.ma/darkblue/lbuccher?1337Badge=off&UM6P=off)
 
  ## Mes projets scolaires
    #### Details:
@@ -19,7 +19,7 @@ Je partage sur ce github mes projets effectués.
 - [Minishell](https://github.com/LisaBuccheri/Minishell)
 - [Modules C++](https://github.com/LisaBuccheri/PiscineCpp/)
 - [Cub3D](https://github.com/LisaBuccheri/Cub3d/)
-- [Inception]()
+- Inception
 
 <!--
 **LisaBuccheri/LisaBuccheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
