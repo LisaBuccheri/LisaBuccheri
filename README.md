@@ -5,10 +5,10 @@ Je partage sur ce github mes projets effectués.
 
 ![<lbuccher>'s 42 stats](https://badge.mediaplus.ma/darkblue/lbuccher?1337Badge=off&UM6P=off)
 
- ## Mes projets scolaires
+ ## Cursus 19
    #### Details:
   
-- [Libft](https://github.com/LisaBuccheri/libft)  
+- [Libft](https://github.com/LisaBuccheri/Cursus19)  
 - [Get next line](https://github.com/LisaBuccheri/get_next_line)
 - [Ft printf](https://github.com/LisaBuccheri/ft_printf)
 - [Born2beroot](https://github.com/LisaBuccheri/Born2beroot)
