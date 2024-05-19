@@ -1,37 +1,10 @@
 ### Hi there 👋
-Après une formation en tant que game developer et une en game programming, j'ai décidé de me lancer dans le cursus de 19 (network 42).
-Je partage sur ce github mes projets effectués.
-
+I have training has a game developer and I finish the common core at 19 from the 42 network. Here I drop some stuff
 
 ![<lbuccher>'s 42 stats](https://badge.mediaplus.ma/darkblue/lbuccher?1337Badge=off&UM6P=off)
 
- ## Cursus 19
-   #### Details:
-  
-- [Libft](https://github.com/LisaBuccheri/Cursus19)  
-- [Get next line](https://github.com/LisaBuccheri/get_next_line)
-- [Ft printf](https://github.com/LisaBuccheri/ft_printf)
-- [Born2beroot](https://github.com/LisaBuccheri/Born2beroot)
-- [Pipex](https://github.com/LisaBuccheri/pipex)
-- [Push swap](https://github.com/LisaBuccheri/push_swap)
-- [So long](https://github.com/LisaBuccheri/so_long)
-- [Philosophers](https://github.com/LisaBuccheri/philosophers)
-- [Minishell](https://github.com/LisaBuccheri/Minishell)
-- [Modules C++](https://github.com/LisaBuccheri/PiscineCpp/)
-- [Cub3D](https://github.com/LisaBuccheri/Cub3d/)
-- [Inception](https://github.com/LisaBuccheri/inception)
+ ## Cursus 19  
+[Cursus19](https://github.com/LisaBuccheri/Cursus19)  
 
-<!--
-**LisaBuccheri/LisaBuccheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a itch.io page to:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
